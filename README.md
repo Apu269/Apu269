@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monjurul Hassan Apu</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apu269&label=Profile%20views&color=0e75b6&style=flat" alt="apu269" /> </p>
+<https://tenor.com/en-IN/view/robot-cute-hi-hello-greeting-gif-12331173378171238842>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apu269" alt="apu269" /></a> </p>
 
