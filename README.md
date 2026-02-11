@@ -1,24 +1,62 @@
-<h1 align="center">Hi 👋, I'm Monjurul Hassan Apu</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<div align="center">
 
- <img src="https://media.tenor.com/qyEg2qWmeboAAAAj/robot-cute.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apu269" alt="apu269" /></a> </p>
+<img src="https://media.tenor.com/qyEg2qWmeboAAAAj/robot-cute.gif" width="120">
 
-- 📫 How to reach me **monjurulhasanapu269@gmail.com**
+<h1>Hi 👋, I'm Monjurul Hassan Apu</h1>
+<h3>🚀 Frontend Developer | JavaScript Enthusiast | Future Full-Stack Developer</h3>
 
-- 📄 Know about my experiences [https://ibb.co.com/tMmWBZ3k](https://ibb.co.com/tMmWBZ3k)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=JavaScript+Developer;Frontend+Engineer;Angular+%7C+Node.js;Building+Cool+UI;Learning+Every+Day!" />
 
-- ⚡ Fun fact **I think I am funny**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:db2777,100:facc15&height=140&section=header" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+
+<br><br>
+
+## ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,nextjs,mongodb,mysql,git&theme=light" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" />
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="260" />
+
+<br><br>
+
+## 🧠 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase&theme=light" />
+
+<p>
+🚀 Currently learning and improving my skills in  
+<strong>HTML, CSS, JavaScript, React, Tailwind CSS & Firebase</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apu269&show_icons=true&locale=en&layout=compact" alt="apu269" /></p>
+## 👀 Profile Views
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apu269&show_icons=true&locale=en" alt="apu269" /></p>
+<img src="https://komarev.com/ghpvc/?username=shuv36&label=Profile%20Views&color=14b8a6&style=flat" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apu269&" alt="apu269" /></p>
+<br><br>
+
+## 🌐 Connect With Me
+
+<a href="https://github.com/shuv36">
+  <img src="https://img.shields.io/badge/GitHub-14b8a6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-db2777?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:db2777,100:14b8a6&height=140&section=footer" />
+
+<br>
+
+✨ <strong>© Copy by Monjurul Hasan Apu</strong> ✨
+
+</div>
