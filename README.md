@@ -37,8 +37,9 @@
 
 ## 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=shuv36&label=Profile%20Views&color=14b8a6&style=flat" />
-
+<p align="o">
+  <img src="https://komarev.com/ghpvc/?username=shuv36&label=Profile%20Views&color=14b8a6&style=flat" />
+</p>
 <br><br>
 
 ## 🌐 Connect With Me
