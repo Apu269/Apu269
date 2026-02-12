@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/qyEg2qWmeboAAAAj/robot-cute.gif" width="120">
 
-<h1>Hi 👋, I'm Monjurul Hassan Apu</h1>
+<h1> I'm Monjurul Hassan Apu</h1>
 <h3>🚀 Backend Developer | JavaScript | APIs & Databases | Future Full-Stack Engineer</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=JavaScript+Developer;Frontend+Engineer;Angular+%7C+Node.js;Building+Cool+UI;Learning+Every+Day!" />
